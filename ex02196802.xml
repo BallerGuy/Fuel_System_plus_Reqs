@@ -1,0 +1,34 @@
+<example>
+  <main>MigratingRMIDataToSimulinkRequirementsExample</main>
+  <product>matlab</product>
+  <product>simulink</product>
+  <product>slrequirements</product>
+  <product>stateflow</product>
+  <file timestamp="1494015984" component="slrequirements">FuelSysData.mat</file>
+  <file timestamp="1494015984" component="slrequirements">FuelSysWithReqLinks.req</file>
+  <file timestamp="1502125235" component="slrequirements">FuelSysWithReqLinks.slx</file>
+  <file timestamp="1494015984" component="slrequirements">FuelSysDesignDescription.docx</file>
+  <file timestamp="1494015984" component="slrequirements">FuelSysRequirementsSpecification.docx</file>
+  <file timestamp="1494015984" component="slrequirements">FuelSysTestScenarios.xlsx</file>
+  <file timestamp="1494015984" component="slrequirements">ImportDialog1.png</file>
+  <file timestamp="1501596945" component="slrequirements">ImportDialog2.png</file>
+  <file timestamp="1501596945" component="slrequirements">ImportDialog3.png</file>
+  <file timestamp="1494015984" component="slrequirements">ImportSuccess.png</file>
+  <file timestamp="1501596945" component="slrequirements">MigrationDoc1.png</file>
+  <file timestamp="1501596945" component="slrequirements">MigrationDoc2.png</file>
+  <file timestamp="1494015984" component="slrequirements">MigrationDoc3.png</file>
+  <file timestamp="1494015984" component="slrequirements">MigrationMdlDiagram1.png</file>
+  <file timestamp="1494015984" component="slrequirements">MigrationMdlDiagram2.png</file>
+  <file timestamp="1494015984" component="slrequirements">MigrationMdlDiagram3.png</file>
+  <file timestamp="1501596945" component="slrequirements">ReqEditor1.png</file>
+  <file timestamp="1501596945" component="slrequirements">ReqEditor2a.png</file>
+  <file timestamp="1494015984" component="slrequirements">ReqEditor2b.png</file>
+  <file timestamp="1501596945" component="slrequirements">ReqEditor3.png</file>
+  <file timestamp="1501596945" component="slrequirements">ReqEditor4.png</file>
+  <file timestamp="1494015984" component="slrequirements">ReqEditor5.png</file>
+  <file timestamp="1501597172" component="slrequirements">ReqEditorExcelRefs.png</file>
+  <file timestamp="1501609847" component="slrequirements">ReqSetUpdate.png</file>
+  <file timestamp="1502040636" component="slrequirements">update_links.png</file>
+  <hideCode/>
+  <sandboxPublished reasons="software"/>
+</example>

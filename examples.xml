@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<demos>
+  <demoitem>
+    <source>MigratingRMIDataToSimulinkRequirementsExample</source>
+    <type>M-file</type>
+    <metadata>ex02196802</metadata>
+    <sandboxPublished reasons="software"/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>slrequirements</product>
+    <product>stateflow</product>
+    <noButton/>
+  </demoitem>
+</demos>
